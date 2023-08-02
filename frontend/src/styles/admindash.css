@@ -1,0 +1,17 @@
+
+
+
+  .btna:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+    margin-right: 50px;
+    margin-left: 50px;
+ }
+ .btna{
+    background: var(--secondary-color) !important;
+    border: none !important;
+    border-radius: 50px !important;
+    padding: 0.4rem 1.5rem !important;
+    margin-right: 50px;
+    margin-left: 50px;
+ }
